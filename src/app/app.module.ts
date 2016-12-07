@@ -7,11 +7,11 @@ import { HomePage } from '../pages/home/home';
 
 
 export const firebaseConfig = {
-  apiKey: "AIzaSyAZHfARaxyFaX09iisJzgd4f4zAIAKgKco",
-  authDomain: "agenda-3298f.firebaseapp.com",
-  databaseURL: "https://agenda-3298f.firebaseio.com",
-  storageBucket: "agenda-3298f.appspot.com",
-  messagingSenderId: "115303209303"
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  storageBucket: "",
+  messagingSenderId: ""
 };
 
  
